@@ -1,0 +1,1 @@
+python fdma.py -p comX (将最后comX换成自己使用的端口号就行了，波特率默认固定115200)
