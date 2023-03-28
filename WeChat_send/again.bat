@@ -1,0 +1,1 @@
+start cmd /c "cd /d D:\work_code\WeChat_send&&python64 send.py"

@@ -1,0 +1,18 @@
+pmm_register_dict = {
+    0:'pmm_dbg_bus_io[31:0]',
+    1:'pmm_dbg_bus_io[63:32]',
+    2:'pmm_scratch0[31:0]',
+    3:'32\'h0',
+    4:'32\'h0',
+    5:'32\'h0',
+    6:'32\'h0',
+    7:'32\'h0',
+    8:'ana_mon_bus[31:0]',
+    9:'ana_mon_bus[63:32]',
+    10:'ana_mon_bus[95:64]',
+    11:'ana_mon_bus[127:96]',
+    12:'ana_mon_bus[159:128]',
+    13:'ana_mon_bus[191:160]',
+    14:'ana_mon_bus[215:192],8\'h0',
+    15:'32\'h0',
+}
